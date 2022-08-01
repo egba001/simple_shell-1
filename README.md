@@ -284,7 +284,7 @@ $
 ## Authors :black_nib:
 
 * Oliver Samuel <[Oliver Samuel](https://github.com/tecnophille)>
-* Jane <[Jane](https://github.com/jayne-0)>
+* Jane <[Jane AFfamuefuna](https://github.com/jayne-0)>
 
 ## License :lock:
 
