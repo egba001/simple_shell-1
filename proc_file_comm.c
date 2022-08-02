@@ -114,11 +114,10 @@ int proc_file_commands(char *file_path, int *exe_ret)
 			ret = call_args(args, front, exe_ret);
 			args = &args[++i];
 			i = 0;
-		}
-	}
+}
+}
+ret = call_args(args, front, exe_ret);
 
-	ret = call_args(args, front, exe_ret);
-
-	free(front);
-	return (ret);
+free(front);
+return (ret);
 }
